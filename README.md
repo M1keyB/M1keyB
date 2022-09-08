@@ -2,8 +2,7 @@
 - 👀 I’m interested in web development and computer programming!
 - 🌱 I’m currently learning HTML, CSS, and Javascript!
 - 💞️ I’m looking to collaborate on many projects in the future!
-- 📫 How to reach me:
-- michaelbower92@gmail.com
+- 📫 How to reach me: michaelbower92@gmail.com
 
 
 <!---
