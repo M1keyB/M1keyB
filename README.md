@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @M1keyB
-- 👀 I’m interested in web development and computer programming!
-- 🌱 I’m currently learning HTML, CSS, and Javascript!
-- 💞️ I’m looking to collaborate on many projects in the future!
-- 📫 How to reach me: michaelbower92@gmail.com
+-  Developing Alignment Theory: a regulation-first framework for analyzing coherence, capacity limits, and systemic breakdown in human, social, and institutional systems.
+-  alingmenttheory.org
+- 📫 How to reach me: mnbower.researcher@gmail.com
 
 
 <!---
