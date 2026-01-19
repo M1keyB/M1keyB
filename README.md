@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @M1keyB
--  Developing Alignment Theory: a regulation-first framework for analyzing coherence, capacity limits, and systemic breakdown in human, social, and institutional systems.
--  alingmenttheory.org
+-  Developing Alignment Theory: a regulation-first framework for analyzing coherence, capacity limits,
+-  and systemic breakdown in human, social, and institutional systems.
+-  Research, writing, and visual essays at
+-  alignmenttheory.org
 - 📫 How to reach me: mnbower.researcher@gmail.com
 
 
